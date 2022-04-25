@@ -7,8 +7,13 @@ public class Product
 	 System.out.println();
 	 
  }
+ 
   public void delproduct()
   {
 	  System.out.println();
   }
-}
+
+ public void updateproduct()
+ {
+	 
+  }
