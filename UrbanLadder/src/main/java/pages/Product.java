@@ -6,4 +6,8 @@ public class Product
  {
 	 System.out.println();
  }
+ public void updateproduct()
+ {
+	 
+ }
 }
